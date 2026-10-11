@@ -1,0 +1,15 @@
+# Kết quả chạy nặng — chỉ giữ bản chọn lọc trong results/
+runs/
+sweep_logs/
+sweep_config_*.json
+sweep_constraints_*.sdc
+
+# Mô phỏng
+sim
+*.vcd
+
+# Python / Windows
+.venv/
+__pycache__/
+*.Zone.Identifier
+*Zone.Identifier

@@ -1,0 +1,9 @@
+{
+  "DESIGN_NAME": "uart",
+  "VERILOG_FILES": "dir::src/*.v",
+  "CLOCK_PORT": "clk",
+  "CLOCK_PERIOD": 20,
+  "PDK": "sky130A",
+  "PNR_SDC_FILE": "dir::constraints.sdc",
+  "SIGNOFF_SDC_FILE": "dir::constraints.sdc"
+}
